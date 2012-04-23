@@ -12,8 +12,6 @@
  * @author ${PHPDOC_AUTHOR:$TM_FULLNAME}$6
  **/
 $1function $2($3);$0</string>
-	<key>keyEquivalent</key>
-	<string></string>
 	<key>name</key>
 	<string>Function Signature</string>
 	<key>scope</key>
